@@ -1,5 +1,5 @@
 <template>
- <div>
+  <div>
     <h1>oure serveice page</h1>
- </div>
+  </div>
 </template>
